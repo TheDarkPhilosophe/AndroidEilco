@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TD2</string>
+    <string name="welcome_message">Bienvenue !</string>
 </resources>
